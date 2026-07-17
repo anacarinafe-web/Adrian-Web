@@ -1,0 +1,9 @@
+PROYECTO CORREGIDO DEFINITIVO
+
+Distribución de imágenes:
+1. Header superior: logo original AC.
+2. Hero, lado derecho: logo original AC grande.
+3. Sección Perfil / Sobre mí: retrato de Adrián dentro de un óvalo.
+
+Para GitHub: sube los archivos de esta carpeta conservando la carpeta assets.
+Para Vercel: selecciona esta carpeta como Root Directory si la subes como subcarpeta.
