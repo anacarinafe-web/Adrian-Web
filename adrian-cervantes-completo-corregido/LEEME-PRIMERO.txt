@@ -1,8 +1,0 @@
-PROYECTO CORREGIDO
-
-- El logo aparece en la barra superior.
-- El logo aparece en el hero.
-- La fotografía aparece en la sección Sobre mí dentro de un círculo.
-- La carpeta assets ya incluye el logo y la fotografía.
-
-Para GitHub: sube los archivos que están DENTRO de esta carpeta, de modo que index.html quede en la raíz del repositorio.

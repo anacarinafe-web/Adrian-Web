@@ -1,7 +1,0 @@
-SUBIR A GITHUB / VERCEL
-
-1. Descomprime este ZIP.
-2. Sube LOS ARCHIVOS Y CARPETAS DE ADENTRO directamente a la raíz del repositorio.
-3. Debes ver index.html, styles.css, script.js, vercel.json y assets/ en la página principal de GitHub.
-4. No subas la carpeta contenedora como otra subcarpeta.
-5. En Vercel, Root Directory debe estar vacío o en ./ si los archivos están en la raíz.
