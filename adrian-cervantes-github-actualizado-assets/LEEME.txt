@@ -1,2 +1,0 @@
-Coloca esta carpeta 'assets' dentro de tu proyecto actualizado.
-Si tu index.html usa .jpg en lugar de .jpeg, cambia el nombre del archivo o la ruta.
